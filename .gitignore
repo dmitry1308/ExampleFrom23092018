@@ -1,0 +1,7 @@
+# Project exclude paths
+/out/
+/.idea/
+dima.txt
+dima1.txt
+test.ser
+*.iml

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<phoneBook>
+    <persons имя="Щепин Дмитрий">
+        <telephone>89130137383</telephone>
+        <email>bright1308@gmail.com</email>
+        <web>-</web>
+    </persons>
+    <persons имя="Щепин Юрий">
+        <telephone>89832242873</telephone>
+        <email>L200@gmail.com</email>
+        <web>-</web>
+    </persons>
+    <persons имя="Щепина Вера">
+        <telephone>89832242825</telephone>
+        <email>vera@gmail.com</email>
+        <web>-</web>
+    </persons>
+</phoneBook>
